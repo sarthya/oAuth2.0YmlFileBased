@@ -2,7 +2,7 @@
 Simple oAuth2 example by yml file configuration. No extra java code
 
 ## Run this code as below
-### 1. Authorization Server
+>  1. Authorization Server
 ```
 Http method: POST
 Path: http://localhost:9002/poc/oauth/token
@@ -13,7 +13,7 @@ grant_type=password&username=poc&password=poc123
 ### ![Postman](https://github.com/sarthya/oAuth2.0YmlFileBased/blob/master/AuthorizationServerPostmanSS.JPG)
 
 
-### 1. Resource Server
+>  2. Resource Server
 ```
 Http method: GET 
 Path: http://localhost:8080/api
