@@ -5,18 +5,18 @@ Simple oAuth2 example by yml file configuration. No extra java code
 ### 1. Authorization Server
 `
 Http method: POST
-Path: http://localhost:9002/poc/oauth/token /n
-Authorization: Basic cG9jLWlkOnBvYy1zZWNyZXQ= /n
-Content-Type: application/x-www-form-urlencoded /n
-grant_type=password&username=poc&password=poc123 /n
+Path: http://localhost:9002/poc/oauth/token \n
+Authorization: Basic cG9jLWlkOnBvYy1zZWNyZXQ= \n
+Content-Type: application/x-www-form-urlencoded \n
+grant_type=password&username=poc&password=poc123 \n
 `
 ### ![Postman](https://github.com/sarthya/oAuth2.0YmlFileBased/blob/master/AuthorizationServerPostmanSS.JPG)
 
 
 ### 1. Resource Server
 `
-Http method: GET
-Path: http://localhost:8080/api
-Authorization: Bearer 9f2015fd-b5ca-4a92-8a03-460247049288
+Http method: GET \n
+Path: http://localhost:8080/api \n
+Authorization: Bearer 9f2015fd-b5ca-4a92-8a03-460247049288 \n
 `
 ### ![Postman](https://github.com/sarthya/oAuth2.0YmlFileBased/blob/master/ResourceServerPostmanSS.JPG)
