@@ -1,0 +1,14 @@
+target
+.classpath
+.project
+.settings
+/oAuthSeverYmlFileConf/.classpath
+/oAuthSeverYmlFileConf/.project
+/oAuthSeverYmlFileConf/.settings
+/oAuthSeverYmlFileConf/target
+
+
+/oAuthResourceYmlFileConf/.classpath
+/oAuthResourceYmlFileConf/.project
+/oAuthResourceYmlFileConf/.settings
+/oAuthResourceYmlFileConf/target
