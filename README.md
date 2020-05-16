@@ -10,6 +10,8 @@ Authorization: Basic cG9jLWlkOnBvYy1zZWNyZXQ=
 Content-Type: application/x-www-form-urlencoded 
 grant_type=password&username=poc&password=poc123 
 ```
+### ![Postman](https://github.com/sarthya/oAuth2.0YmlFileBased/blob/master/authorization-password.PNG)
+### ![Postman](https://github.com/sarthya/oAuth2.0YmlFileBased/blob/master/grant-type-password.PNG)
 ### ![Postman](https://github.com/sarthya/oAuth2.0YmlFileBased/blob/master/AuthorizationServerPostmanSS.JPG)
 
 
